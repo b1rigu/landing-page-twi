@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Project Name
+
+This is my portfolio website built with Next.js and Tailwind CSS.
 
 ## Getting Started
 
-First, run the development server:
+Follow these simple steps to get the project running on your local machine.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Prerequisites
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Make sure you have Node.js installed on your system. You can download it from [nodejs.org](https://nodejs.org/).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/b1rigu/landing-page-twi.git
+   ```
 
-## Learn More
+2. Navigate to the project directory:
+   ```bash
+   cd landing-page-twi
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+3. Install dependencies:
+   ```bash
+   npm i
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The application should now be running on your local development server.
 
-## Deploy on Vercel
+## Customization
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+To customize the application with your own data:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Open the `app/const.ts` file in your preferred editor
+2. Replace the existing data with your own information
+3. Save the file and restart the development server if needed
+
+The changes should be reflected in your application immediately.
+
+## Thanks
+
+Thank you for checking out this project! Your interest and support mean a lot. If you find this useful, please consider:
+
+- ⭐ Starring the repository
+- 📢 Sharing it with others who might find it helpful
+
+Happy coding! 🎉
