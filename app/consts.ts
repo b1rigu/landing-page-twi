@@ -131,7 +131,7 @@ export const appData: AppData = {
     {
       title: "MTranslate",
       description: `A full-stack verified translation service with payment integration, 
-        user authentication, file uploads, and admin dashboard. It's an ongoing SaaS 
+        user authentication, file uploads, role authorization, and more. It's an ongoing SaaS 
         so am unable to provide the code.`,
       tech: [
         "Next.js",

@@ -118,7 +118,7 @@ export function Portfolio() {
             transition={{ duration: 0.5 }}
             className="flex flex-col items-center text-center"
           >
-            <div className="relative w-64 h-64 mb-8 overflow-hidden rounded-full border-4 border-blue-500 shadow-lg">
+            <div className="relative w-48 h-48 lg:w-64 lg:h-64 mb-8 overflow-hidden rounded-full border-4 border-blue-500 shadow-lg">
               <img
                 src={appData.profileImage}
                 alt="Profile"
