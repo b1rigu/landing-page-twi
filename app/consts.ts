@@ -44,8 +44,8 @@ export const appData: AppData = {
   profileImage: "https://avatars.githubusercontent.com/u/98158217?v=4",
   github: "https://github.com/b1rigu",
   githubLabel: "github.com/b1rigu",
-  linkedin: "https://www.linkedin.com/in/biligjargal-ganbold-a9a05917a/",
-  linkedinLabel: "linkedin.com/in/biligjargal-ganbold-a9a05917a",
+  linkedin: "https://www.linkedin.com/in/biligjargal/",
+  linkedinLabel: "linkedin.com/in/biligjargal",
   resume: "/files/resume.pdf",
   techStack: [
     // Frontend
