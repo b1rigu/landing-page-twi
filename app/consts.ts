@@ -132,7 +132,8 @@ export const appData: AppData = {
       title: "Online verified translation service",
       description: `I built a full-stack online platform in 5 weeks to solve a problem I once had. I used to hate going out to search for verified 
       translation services when its urgent only to find they are closed after walking so much. But with this online tool, 
-      users can just upload their files online and our team can give them back its translated and verified version without leaving home.`,
+      users can just upload their files online and our team can give them back its translated and verified version without leaving home.
+      So far, 10 users have successfully received certified translations through the platform.`,
       tech: [
         "Next.js",
         "Redis",
