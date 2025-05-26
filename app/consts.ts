@@ -129,10 +129,10 @@ export const appData: AppData = {
   ],
   projects: [
     {
-      title: "MTranslate",
-      description: `A full-stack verified translation service with payment integration, 
-        user authentication, file uploads, role authorization, and more. It's an ongoing SaaS 
-        so am unable to provide the code.`,
+      title: "Online verified translation service",
+      description: `I built a full-stack online platform in 5 weeks to solve a problem I once had. I used to hate going out to search for verified 
+      translation services when its urgent only to find they are closed after walking so much. But with this online tool, 
+      users can just upload their files online and our team can give them back its translated and verified version without leaving home.`,
       tech: [
         "Next.js",
         "Redis",
@@ -148,9 +148,10 @@ export const appData: AppData = {
     },
     {
       title: "End to End Encrypted File Storage",
-      description: `EEEVault is an end-to-end encrypted file storage solution 
-      that allows users to securely store and share files with Zero Knowledge 
-      architecture and Military-grade encryption.`,
+      description: `I built this end to end encrypted file storage in a week because I couldn't trust google drive for privacy reasons. 
+      Even though their servers are secure I was scared of the thought of them seeing my files so I built this website where 
+      even I as a developer can't open or see any user's files. The only problem with it is you tradeoff convenience for security, 
+      meaning you will lose all your files if you forget your password since even the servers can't decrypt any information.`,
       tech: [
         "Next.js",
         "PostgreSQL (with Drizzle ORM)",
